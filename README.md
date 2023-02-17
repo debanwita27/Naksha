@@ -33,5 +33,6 @@ Navigating a new space is always intimidating. We cannot 'Google-Maps' our way t
 - [Putul Kumari](https://github.com/Putul1519)
 
 ## Screenshots
-<img src="images/Screenshot_20230217-084319.png" />
-<img src="images/Screenshot_20230217-084513.png"/>
+<img src="images/Screenshot_20230217-084319.png" height="500px" width="auto" align="left"/>
+<img src="images/Screenshot_20230217-084513.png" height="500px" width="auto" align = "left"/>
+<img src="images/Screenshot_20230217-084024.png" height="500px" width="auto"/>
