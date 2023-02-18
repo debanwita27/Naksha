@@ -18,7 +18,7 @@ Navigating a new space is always intimidating. We cannot 'Google-Maps' our way t
 **Tech stack**:
 - Unity 3D
 - C#
-- ARKit ( for Android Dev)
+- ARCore ( for Android Dev)
 
 ## Use Cases of your project
 - inside large organisations
